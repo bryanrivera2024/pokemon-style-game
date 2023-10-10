@@ -9,6 +9,12 @@ const attacks = {
     name: 'Fireball',
     damage: 25,
     type: 'Fire',
-    color: 'red'
+    color: 'red',
+  },
+    Rayo: {
+      name: 'rayo',
+      damage: 40,
+      type: 'electricidad',
+      color: 'yellow'
   }
 }
